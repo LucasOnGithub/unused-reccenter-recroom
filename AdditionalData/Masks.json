@@ -1,0 +1,340 @@
+[
+  {
+    "guid": "a3d90e03-2273-41dd-b672-9bd5a1db82bf",
+    "name": "MobsterHat_tex_Devb",
+    "textureName": "MobsterHat_tex_Devb.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "b22955e4-9c87-45f4-a006-e4cddf4ca29b",
+    "name": "MobsterTorso_tex_Dev",
+    "textureName": "MobsterTorso_tex_Dev.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "4dcf2775-d58f-4ee4-a259-5c5cfe5ba613",
+    "name": "MobsterWrist_tex_Sexy",
+    "textureName": "MobsterWrist_tex_Sexy.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "652fd223-2a14-47d8-a5e1-23f0dffcdd6c",
+    "name": "MobsterTorso_tex_Sexy",
+    "textureName": "MobsterTorso_tex_Sexy.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "5fddd090-ce4f-409c-83db-d736f8d4b095",
+    "name": "BlackBishopGloves_Tex",
+    "textureName": "BlackBishopGloves_Tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "ab198a35-bdf0-4067-83de-3401549e3dc8",
+    "name": "BlackBishop_Tex",
+    "textureName": "BlackBishop_Tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "8c06d780-1b3a-446e-bb89-87c8b8746609",
+    "name": "Hoodie_Virgin_tex",
+    "textureName": "Hoodie_Virgin_tex.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "f86b19a5-40f6-49d1-ac7f-828e1779ed64",
+    "name": "2015_ClassOf",
+    "textureName": "2015_ClassOf.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "7979a8b1-bbc4-4453-99a3-62d23efb7e21",
+    "name": "1987_ClassOf",
+    "textureName": "1987_ClassOf.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "44f08e16-a3de-4858-aad5-7e3f6c32a30f",
+    "name": "Torso_MaleTee_Angel_Texture",
+    "textureName": "Torso_MaleTee_Angel_Texture.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "f5edd29f-f036-436d-9f7d-3a3681e36745",
+    "name": "Torso_MaleTee_Devil_Texture1",
+    "textureName": "Torso_MaleTee_Devil_Texture1.png",
+    "tiling": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "c375d4af-57d9-4d01-b8b4-a4c165abbc2c",
+    "name": "Saija_Torso_Mask_White",
+    "textureName": "Saija_Torso_Mask_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "guid": "4eda9a3e-2301-4e19-a170-46e2db76dac6",
+    "name": "Saija_Helmet_Mask_White",
+    "textureName": "Saija_Helmet_Mask_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "70ebf777-89ee-4c6a-95a8-79e32bede3a0",
+    "name": "Saija_Glove_Mask_White",
+    "textureName": "Saija_Glove_Texture_White.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "tnCJp2eDI0SwjVfJMhk3LQ",
+    "name": "Hoodie_Torso_Trans_Mask",
+    "textureName": "Hoodie_Torso_Trans_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "c32679c0-4ecd-4a0a-bea3-6fadbd8dfda2",
+    "name": "Hoodie_Torso_Technical_Mask",
+    "textureName": "Hoodie_TechnicalSupport_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "tlpa7195x0CkmSjpR1RArQ",
+    "name": "Hoodie_Torso_Rainbow_Mask",
+    "textureName": "Hoodie_Torso_Rainbow_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "P12CUkIg8EuFihGQsvPlxg",
+    "name": "Mobster_HatHacker_DNS_Mask",
+    "textureName": "MobsterHat_Hacker_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "C8gCmBZ8RUG83vvDw_UYew",
+    "name": "Steampunk_Contest_Torso_Mask",
+    "textureName": "SteampunkTorso_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "eZGiYEx6sk2PsN39RzQwlQ",
+    "name": "Hoodie_Skeleton_Torso_Mask",
+    "textureName": "2018Hoodie_Torso_Skeleton_tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "dUu7b-JFOky9c2lIVCNmcg",
+    "name": "WinterScarf_Mask",
+    "textureName": "WinterScarf_Tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "e812ffea-67a4-421d-b9d9-6cc9d5b5830b",
+    "name": "Paintball_Pistol_Valentines_Mask",
+    "textureName": "Paintball_Pistol_Valentines_Tex.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "VT9S5NTwR02D7sMB4M7tGg",
+    "name": "Saija_Torso_Mask",
+    "textureName": "Saija_Torso_Mask.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "idC9soXZs0y_fPvfKynIEQ",
+    "name": "Saija_Helmet_Mask",
+    "textureName": "Saija_Helmet_Mask.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "Ko3vK6ZcqkyJKYPSsYkmqg",
+    "name": "Saija_Glove_Mask",
+    "textureName": "Saija_Glove_Texture.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "_Ft7u8fjG0KzyGwd4J5RTw",
+    "name": "Contest_Champion_Shirt_Mask",
+    "textureName": "Contest_Champion_Shirt.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  }
+]
